@@ -26,5 +26,5 @@ opening_hours = pd.json_normalize(
 
 pd.json_normalize(store_df.openingHours, record_path=["openingHours"])
 print(store_df.columns)
-store_df.to_csv("./output.csv")
+store_df.to_csv("../dataset/output.csv")
 print(opening_hours.T)
