@@ -27,7 +27,7 @@ class HmSpider(scrapy.Spider):
     """
 
     name = "hm"
-    allowed_domains = ["www2.hm.com"]
+    allowed_domains = ["hm.com"]
     start_urls = ["https://www.hm.com/entrance.ahtml"]
 
     def parse(self, response):
