@@ -48,3 +48,4 @@ El dataset ha sido publicado en Zenodo con DOI [10.5281/zenodo.7338342](https://
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7338342.svg)](https://doi.org/10.5281/zenodo.7338342)
 
 ## Vídeo de presentación
+Enlace al vídeo de presentación de la práctica: [video](https://drive.google.com/file/d/1_GQrx4-E7b5KSanlKjCoeGiIRQx4fkfX/view?usp=sharing)
